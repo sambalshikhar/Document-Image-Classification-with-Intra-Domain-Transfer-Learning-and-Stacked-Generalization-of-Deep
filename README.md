@@ -1,4 +1,7 @@
 # Document-Image-Classification-with-Intra-Domain-Transfer-Learning-and-Stacked-Generalization-of-Deep
+
+Blog post : https://medium.com/@shikharsambal3/how-i-built-a-document-classification-system-using-deep-convolutional-neural-networks-e1d9a83cbabd
+
 RVL-CDIP could be looked at as the equivalent of ImageNet for the document image community. 
 It’s certainly the largest we’ve seen in the literature. There are 400,000 total document images in the dataset.
 The dataset contains much noise and variance in composition of each document class. Uncompressed, the dataset size is ~100GB,
